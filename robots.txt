@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mamiriqbal1.github.io/sitemap.xml
