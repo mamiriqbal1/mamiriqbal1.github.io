@@ -122,14 +122,14 @@ enableRobotsTXT = true
 
 [menu]
   [[menu.main]]
-    identifier = "cv"
-    name = "CV"
-    url = "/cv"
-    weight = 20
-  [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about"
+    weight = 20
+  [[menu.main]]
+    identifier = "cv"
+    name = "CV"
+    url = "/cv"
     weight = 30
 
 [languages]
@@ -138,8 +138,3 @@ enableRobotsTXT = true
     weight = 10
     [languages.en.params.jsonResume]
       present = "present"
-  [languages.de]
-    languageName = "Deutsch"
-    weight = 20
-    [languages.de.params.jsonResume]
-      present = "heute"

@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Muhammad Amir Iqbal",
-    "image": "amir-iqbal-small.jpg",
+    "image": "/amir-iqbal-small.jpg",
     "email": "amir.iqbal@gmail.com",
     "phone": "(92) 321-4432-051",
     "summary": "Amir has a masters degree in computer science and has been programming since 1997. He has taught undergraduate computer science students and has extensive project management experience. Amir loves programming and lately he has been working in machine learning",
