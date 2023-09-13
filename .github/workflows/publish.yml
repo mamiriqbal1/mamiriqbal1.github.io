@@ -79,5 +79,5 @@ jobs:
         with:
           publish_branch: published
           publish_dir: ./public
-          github_token: ${{ secrets.PERSONAL_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           enable_jekyll: false
