@@ -1,6 +1,6 @@
-baseURL = "http://localhost"
-copyright = "Copyright © 2021"
-title = "hugo-theme-gruvbox"
+baseURL = "http://mamiriqbal1.github.io"
+copyright = "Copyright © 2023"
+title = "Muhammad Amir Iqbal"
 #paginate = 10
 enableRobotsTXT = true
 # Enable to calculate the last modified date from Git history and show it in the post header
@@ -26,12 +26,12 @@ enableRobotsTXT = true
   #themeColor = "blue"
   # soft medium hard, defaults to medium
   #themeContrast = "medium"
-  author = "Michael Schnerring"
-  subtitle = "Theme Demo"
-  description = "A retro-looking Hugo theme inspired by gruvbox. The pastel colors are high contrast, easily distinguishable, pleasing to the eye, and feature light and dark color palettes."
+  author = "Muhammad Amir Iqbal"
+  subtitle = "Amir's Personal Website"
+  description = "All about me!"
 
   [params.logo]
-    text = "gruvbox"
+    text = "Muhammad Amir Iqbal"
     url = "/"
 
   [params.prism]
@@ -121,11 +121,6 @@ enableRobotsTXT = true
     formatString = "mailto:?subject={title}&body={url}"
 
 [menu]
-  [[menu.main]]
-    identifier = "blog"
-    name = "Blog"
-    url = "/blog"
-    weight = 10
   [[menu.main]]
     identifier = "cv"
     name = "CV"

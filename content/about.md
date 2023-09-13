@@ -1,26 +1,41 @@
 ---
-title: "About"
+title: ""
 draft: false
 ---
 
-## Attributions
+## About me
 
-This theme depends on the following projects:
+I am a person who loves engaging with people to appreciate different
+perspectives and to keep learning and enjoying. I highly value originality,
+respect and honesty. I am blessed with a supportive wife and three amazing
+girls. I enjoy books, cycling and weight-lifting.
 
-- [Powered by Hugo](https://gohugo.io/)
-- Color scheme based on [Gruvbox](https://github.com/morhetz/gruvbox)
-- Code Highlighting by [Prism](https://prismjs.com/)
-- [Tabler Icons](https://tablericons.com/)
-- [Simple Icons](https://simpleicons.org/)
-- Content with the [#hugo-basic-example](/tags/hugo-basic-example) tag
-  originates from [gohugoio/hugoBasicExample](https://github.com/gohugoio/hugoBasicExample)
+I have twenty-five years of ICT industry experience working in multicultural
+environments in Pakistan, Singapore, and Oman. Most of my professional life is
+spent on managing teams and projects, interacting with clients and vendors and
+delivering results. The projects I worked on included large projects and up to 5
+MUSD in value.
 
-A big thanks to the creators! ❤️
+I have found that people can be motivated much better with proper focus and care
+for their well being and growth. I have come to disagree with the carrot and
+stick policy. Lately I have been influenced by people like Tom DeMarco and W.
+Edwards Deming for developing effective teams and organizations.
 
-The [profile picture of Richard Hendricks is from the Fandom Silicon Valley Wiki](https://silicon-valley.fandom.com/wiki/Richard_Hendricks?file=Richard_Hendricks.jpg).
+## Notable Projects
 
-## Legal
+I will list two interesting projects that I worked on during my stay at Ericsson
 
-The theme is [licensed under MIT](https://github.com/schnerring/hugo-theme-gruvbox/blob/main/LICENSE).
+### Telenor EasyPaisa Swap
 
-All trademarks are the property of their respective owners.
+Migration of Pakistan’s largest and the world’s 3rd largest Mobile Money system
+
+### Mobilink Charging System Swap
+
+Migration of the largest Ericsson Charging System Swap at the time Oman Mobile
+SACC Implementation
+
+## Last But Not Least
+
+Additionally, I have had the pleasure of teaching as Assistant Professor at
+NU-FAST Lahore for four years. I am hands-on with Python and C++ and have done
+some work around data science and machine learning.

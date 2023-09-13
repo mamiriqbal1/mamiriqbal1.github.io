@@ -1,86 +1,51 @@
 {
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
-    "name": "Richard Hendricks",
-    "label": "Programmer",
-    "image": "https://hugo-theme-gruvbox.schnerring.net/richard-hendricks.webp",
-    "email": "richard.hendricks@piedpiper.com",
-    "phone": "(912) 555-4321",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory.",
+    "name": "Muhammad Amir Iqbal",
+    "image": "amir-iqbal-small.jpg",
+    "email": "amir.iqbal@gmail.com",
+    "phone": "(92) 321-4432-051",
+    "summary": "Amir has a masters degree in computer science and has been programming since 1997. He has taught undergraduate computer science students and has extensive project management experience. Amir loves programming and lately he has been working in machine learning",
     "location": {
-      "city": "San Francisco"
+      "city": "Lahore, Pakistan"
     },
     "profiles": [
       {
         "network": "GitHub",
-        "username": "hugo-theme-gruvbox",
-        "url": "https://github.com/schnerring/hugo-theme-gruvbox"
+        "username": "mamiriqbal1",
+        "url": "https://github.com/mamiriqbal1"
       },
       {
-        "network": "GitHub",
-        "username": "hugo-mod-json-resume",
-        "url": "https://github.com/schnerring/hugo-mod-json-resume"
-      },
-      {
-        "network": "Twitter",
-        "url": "https://twitter.com/SiliconHBO"
-      },
-      {
-        "network": "fandom",
-        "url": "https://silicon-valley.fandom.com/wiki/Richard_Hendricks"
-      },
-      {
-        "network": "HBO",
-        "url": "https://www.hbo.com/silicon-valley"
-      },
-      {
-        "network": "IMDB",
-        "url": "https://www.imdb.com/title/tt2575988/"
-      },
-      {
-        "network": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/List_of_Silicon_Valley_characters#Richard_Hendricks"
+        "network": "LinkedIn",
+        "username": "mamiriqbal",
+        "url": "https://linkedin.com/in/mamiriqbal"
       }
     ]
   },
   "work": [
     {
-      "name": "Pied Piper",
-      "location": "Palo Alto, CA",
-      "description": "Awesome compression company",
-      "position": "CEO/President",
-      "url": "http://piedpiper.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "name": "Educative",
+      "location": "Lahore, Pakistan",
+      "description": "Educative Accelerates Developer Productivity",
+      "position": "Project Manager",
+      "url": "http://educative.io",
+      "startDate": "2022-07",
+      "endDate": "2023-08",
+      "summary": "Leading online learning platform made by developers, created for developers. Free Trial. Text-based courses with embedded coding environments help you learn without the fluff.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Task and people management for a team of software engineers working as technical content developers"
       ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "url": "http://coderdojo.example.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
-      "highlights": ["Awarded 'Teacher of the Month'"]
     }
   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "url": "https://www.ou.edu/",
-      "area": "Information Technology",
+      "institution": "National University of Computer and Emerging Sciences (NU-FAST). Lahore Pakistan",
+      "url": "https://nu.edu.pk/",
+      "area": "Computer Science",
       "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "score": "4.0",
-      "courses": ["DB1101 - Basic SQL", "CS2011 - Java Introduction"]
+      "startDate": "2001-08",
+      "endDate": "2007-04",
+      "score": "3.39"
     }
   ],
   "awards": [
