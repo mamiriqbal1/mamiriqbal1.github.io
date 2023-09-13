@@ -80,4 +80,4 @@ jobs:
           publish_branch: published
           publish_dir: ./public
           github_token: ${{ secrets.PERSONAL_TOKEN }}
-          enable_jekyll: true
+          enable_jekyll: false
