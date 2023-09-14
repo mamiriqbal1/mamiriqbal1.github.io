@@ -28,13 +28,114 @@
       "location": "Lahore, Pakistan",
       "description": "Educative Accelerates Developer Productivity",
       "position": "Project Manager",
-      "url": "http://educative.io",
+      "url": "https://educative.io",
       "startDate": "2022-07",
       "endDate": "2023-08",
-      "summary": "Leading online learning platform made by developers, created for developers. Free Trial. Text-based courses with embedded coding environments help you learn without the fluff.",
+      "summary": "Task and people management for a team of software engineers working as technical content developers",
       "highlights": [
-        "Task and people management for a team of software engineers working as technical content developers"
+        "Introduced process and metrics for measuring the quality of the content and reviews."
       ]
+    },
+    {
+      "name": "National University of Computer and Emerging Sciences",
+      "location": "Lahore, Pakistan",
+      "description": "Computer Science Department",
+      "position": "Assistant Professor",
+      "url": "https://nu.edu.pk",
+      "startDate": "2018-08",
+      "endDate": "2022-06",
+      "summary": "Teaching courses in the Software Engineering and Data Science streams",
+      "highlights": [
+        "Hands on work on Deep Learning, NLP, Big Data and Nature Inspired Algorithms"
+      ]
+    },
+    {
+      "name": "University of Management and Technology",
+      "location": "Lahore, Pakistan",
+      "description": "Computer Science Department",
+      "position": "Assistant Professor",
+      "url": "https://umt.edu.pk",
+      "startDate": "2017-10",
+      "endDate": "2018-07",
+      "summary": "Taught courses in the Software Engineering stream"
+    },
+    {
+      "name": "Ericsson",
+      "location": "Lahore/Islamabad, Pakistan",
+      "description": "Telecom Project Delivery",
+      "position": "Customer Project Manager",
+      "url": "https://Ericsson.com",
+      "startDate": "2007-05",
+      "endDate": "2017-06",
+      "summary": "I was responsible for sales and delivery of telecom and IT projects. As a Project / Program Manager, I had full responsibility for the cost, time & quality of deliveries.",
+      "highlights": [
+        "Telenor EasyPaisa Swap - Migration of Pakistan’s largest and the world’s 3rd largest Mobile Money system",
+        "Mobilink Charging System Swap - Migration of the largest Ericsson Charging System Swap at the time",
+        "Oman Mobile SACC Implementation - Delivery of deep packet inspection system for Oman Mobile",
+        "Warid Network Modernization - Upgrades and modernization of Operations and Business Support Systems (Charging System, VAS, OSS)"
+      ]
+    },
+    {
+      "name": "i2c Inc.",
+      "location": "Lahore, Pakistan",
+      "description": "Credit, Debit, Prepaid and Core Banking Solutions",
+      "position": "Project Manager",
+      "url": "https://i2cinc.com",
+      "startDate": "2006-04",
+      "endDate": "2007-05",
+      "summary": "I managed product development and enhancement of mission-critical financial transaction processing system and provided necessary coordination between customer services, support, and development teams"
+    },
+    {
+      "name": "Veridicom Pakistan",
+      "location": "Lahore, Pakistan",
+      "description": "Custom Software Development",
+      "position": "Development Manager",
+      "startDate": "2001-01",
+      "endDate": "2006-03",
+      "highlights": [
+        "Managed IT engineering team of over 20 people for 5 years",
+        "Successfully delivered complex projects spanning multiple years",
+        "Designed and executed Skill Development Programs",
+        "Introduced and established software development processes based on Agile Principles"
+      ]
+    },
+    {
+      "name": "Netlife",
+      "location": "Singapore",
+      "description": "Banking System Provider",
+      "position": "Senior Software Consultant",
+      "startDate": "2000-09",
+      "endDate": "2001-01",
+      "summary": "Design and implementation of web based online banking system"
+    },
+    {
+      "name": "Fujitsu",
+      "location": "Singapore",
+      "description": "Credit, Debit, Prepaid and Core Banking Solutions",
+      "position": "Software Consultant",
+      "url": "https://fujitsu.com",
+      "startDate": "1999-08",
+      "endDate": "2000-08",
+      "summary": "I worked on NEWDesk that was an Operation and Maintenance Software for Fujitsu Switch E3"
+    },
+    {
+      "name": "Vroom Technologies",
+      "location": "Lahore, Pakistan",
+      "description": "Product Management System",
+      "position": "Software Engineer",
+      "startDate": "1998-03",
+      "endDate": "1999-08",
+      "summary": "Design and development of the customer care module."
+    },
+    {
+      "name": "Techlogix",
+      "location": "Lahore, Pakistan",
+      "description": "Information Technology, Consulting, and Business Solutions",
+      "position": "Software Engineer",
+      "url": "https://www.techlogix.com",
+      "startDate": "1997-01",
+      "endDate": "1998-03",
+      "summary": "I developed the graphical card designer for ViiSAGE Technology using Java and CORBA."
     }
   ],
   "education": [
