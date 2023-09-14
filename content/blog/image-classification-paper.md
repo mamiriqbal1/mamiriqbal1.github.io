@@ -20,11 +20,3 @@ effectiveness of the technique for image classification. Another contribution of
 the paper is that we demonstrate how the evolved features can be visualized to
 understand basis for making a decision. We believe that RXCSi will open a new
 direction of research for image classification using evolutionary techniques.
-
-{{< css.inline >}}
-
-<style>
-.canon { background: white; width: 100%; height: auto; }
-</style>
-
-{{< /css.inline >}}
