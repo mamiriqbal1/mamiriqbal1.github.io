@@ -1,14 +1,13 @@
 ---
-title: ""
+title: "About"
 draft: false
+type: "about"
 ---
-
-## About me
 
 I am a person who loves engaging with people to appreciate different
 perspectives and to keep learning and enjoying. I highly value originality,
-respect and honesty. I am blessed with a supportive wife and three amazing
-girls. I enjoy books, cycling and weight-lifting.
+humbleness and honesty. I am blessed with a supportive wife and three amazing
+girls. I enjoy reding books, cycling and weight-lifting.
 
 I have twenty-five years of ICT industry experience working in multicultural
 environments in Pakistan, Singapore, and Oman. Most of my professional life is
@@ -34,8 +33,8 @@ Migration of Pakistan’s largest and the world’s 3rd largest Mobile Money sys
 Migration of the largest Ericsson Charging System Swap at the time Oman Mobile
 SACC Implementation
 
-## Last But Not Least
+## Last But Not The Least
 
 Additionally, I have had the pleasure of teaching as Assistant Professor at
 NU-FAST Lahore for four years. I am hands-on with Python and C++ and have done
-some work around data science and machine learning.
+work in the area of data science and machine learning.

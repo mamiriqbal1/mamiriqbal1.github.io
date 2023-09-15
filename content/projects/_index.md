@@ -1,6 +1,9 @@
-# Projects
+---
+title: "Projects"
+draft: false
+---
 
-Here I will showcase my projects!
+You can find below some of the projects I worked on.
 
 ## Image Classification using Learning Classifier Systems
 
