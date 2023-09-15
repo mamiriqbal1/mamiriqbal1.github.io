@@ -125,11 +125,6 @@ enableRobotsTXT = true
     identifier = "projects"
     name = "Projects"
     url = "/projects"
-    weight = 10
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about"
     weight = 30
   [[menu.main]]
     identifier = "cv"
