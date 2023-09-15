@@ -143,74 +143,109 @@
       "institution": "National University of Computer and Emerging Sciences (NU-FAST). Lahore Pakistan",
       "url": "https://nu.edu.pk/",
       "area": "Computer Science",
-      "studyType": "Bachelor",
+      "studyType": "Masters",
       "startDate": "2001-08",
       "endDate": "2007-04",
       "score": "3.39"
+    },
+    {
+      "institution": "National University of Computer and Emerging Sciences (NU-FAST). Lahore Pakistan",
+      "url": "https://nu.edu.pk/",
+      "area": "Computer Science",
+      "studyType": "Bachelors",
+      "startDate": "1994-01",
+      "endDate": "1997-12",
+      "score": "3.76"
     }
   ],
   "awards": [
     {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
-    }
-  ],
-  "publications": [
-    {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "url": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+      "title": "IBN HAITHAM SILVER MEDAL",
+      "date": "1999-12-18",
+      "awarder": "National University of Computer and Emerging Sciences",
+      "summary": "On the basis of obtaining 2nd highest grade point average in the batch"
     }
   ],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Master",
-      "keywords": ["HTML", "CSS", "Javascript"]
+      "name": "Project Management",
+      "level": "Expert",
+      "keywords": [
+        "Team Building",
+        "Mentoring",
+        "Conducive Environment",
+        "Planning",
+        "Tracking",
+        "Control",
+        "Continuous Process Improvement"
+      ]
     },
     {
-      "name": "Compression",
-      "level": "Master",
-      "keywords": ["Mpeg", "MP4", "GIF"]
+      "name": "Data Science",
+      "level": "Intermediate",
+      "keywords": [
+        "Exploratory Data Analysis",
+        "Data Visualization",
+        "Data Processing Pipeline",
+        "Feature Engineering",
+        "Time Series Forecasting",
+        "Map Reduce",
+        "Hadoop",
+        "Spar"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "level": "Intermediate",
+      "keywords": [
+        "Model Selection",
+        "Model Evaluation",
+        "Neural Network Training",
+        "Keras",
+        "TensorFlow",
+        "Scikit-learn"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "Expert",
+      "keywords": ["C++", "Python", "Java"]
+    },
+    {
+      "name": "Scraping",
+      "level": "Intermediate",
+      "keywords": ["Scrapy", "Puppeteer"]
     }
   ],
   "languages": [
     {
       "language": "English",
-      "fluency": "Native speaker"
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Urdu",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Punjabi",
+      "fluency": "Native"
     }
   ],
   "interests": [
     {
-      "name": "Wildlife",
-      "keywords": ["Ferrets", "Unicorns"]
-    }
-  ],
-  "references": [
+      "name": "Books",
+      "keywords": ["History", "Classic", "Randomness"]
+    },
     {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
-    }
-  ],
-  "projects": [
-    {
-      "name": "Miss Direction",
-      "description": "A mapping engine that misguides you",
-      "highlights": [
-        "Won award at AIHacks 2016",
-        "Built by all women team of newbie programmers",
-        "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
-      ],
-      "keywords": ["GoogleMaps", "Chrome Extension", "Javascript"],
-      "startDate": "2016-08-24",
-      "endDate": "2016-08-24",
-      "roles": ["Team lead", "Designer"],
-      "entity": "Smoogle",
-      "type": "application"
+      "name": "Strength Training / Weight Lifting",
+      "keywords": [
+        "Squat",
+        "Press",
+        "Bench Press",
+        "Chin-up",
+        "Dead Lift",
+        "Power Clean"
+      ]
     }
   ],
   "meta": {
