@@ -119,6 +119,9 @@ enableRobotsTXT = true
     iconSuite = "tabler-icon"
     iconName = "mail"
     formatString = "mailto:?subject={title}&body={url}"
+  [[params.socialShare]]
+    iconSuite = "simple-icon"
+    iconName = "medium"
 
 [menu]
   [[menu.main]]

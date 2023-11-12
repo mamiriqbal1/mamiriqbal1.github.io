@@ -19,10 +19,18 @@ spent on managing teams and projects, interacting with clients and vendors and
 delivering results. I have successfully delivered projects of up to 5 MUSD
 value.
 
-I have found that people can be motivated much better with proper focus and care
-for their well being and growth. I have come to disagree with the carrot and
-stick policy. Lately I have been influenced by people like Tom DeMarco and W.
-Edwards Deming for developing effective teams and organizations.
+I believe that a leader’s real job is to invest time and energy in developing
+healthy teams with a focus on personal growth. I am inspired by ideas of _Tom
+DeMarco_ for developing thriving teams and of _W. Edwards Deming_ for developing
+effective organizations.
+
+> “By using simplistic extrinsic motivators to goad performance, managers excuse
+> themselves from harder matters such as investment, direct personal motivation,
+> thoughtful team formation, staff retention, and ongoing analysis and redesign
+> of work procedures.”
+>
+> Excerpt From Peopleware: Productive Projects and Teams, Third Edition Tom
+> DeMarco
 
 ## Programming
 
@@ -32,8 +40,9 @@ programming. If my job role does not require active programming, I would look
 for opportunities for automation, scripting or otherwise helping my team mates
 in technical tasks.
 
-## Data Science and Machine Learning
+## AI / Machine Learning
 
 When I joined academia in 2017 and started teaching undergrad students of
-computer science, I got the chance to work in the area of Data Science and
-Machine Learning.
+computer science, I got the chance to work in the area of AI / machine learning.
+Since then I have kept my interest in the field by continuing to do
+experimentation.

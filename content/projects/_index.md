@@ -3,7 +3,7 @@ title: "Projects"
 draft: false
 ---
 
-You can find below some of the projects I worked on.
+Following is a list of some of my personal projects:
 
 ## Image Classification using Learning Classifier Systems
 
