@@ -7,7 +7,7 @@ Welcome to my personal website!
 I am a person who loves engaging with people to appreciate different
 perspectives and to keep learning and enjoying. I highly value originality,
 humbleness and honesty. I am blessed with a supportive wife and three amazing
-girls. I enjoy reding books, cycling and weight-lifting.
+girls. I enjoy reding books, cycling and lifting weights.
 
 Here I will provide an introduction of my experience and expertise.
 
