@@ -9,7 +9,8 @@ Following is a list of some of my personal projects:
 
 I have create a notebook that demonstrate how you can implement retrieval
 augmented generation for a book. I have used the O Level computer science book
-for this purpose.
+for this purpose. You can use it with any of your favorite large language models
+(LLM) for example chatgpt or llama2.
 
 ### 🚀 How retrieval augmented generation works
 
