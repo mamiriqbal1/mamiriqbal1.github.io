@@ -7,7 +7,7 @@ Following is a list of some of my personal projects:
 
 ## Implementing retrieval augmented generation (RAG) for a book
 
-I have create a notebook that demonstrate how you can implement retrieval
+I have created a notebook that demonstrates how you can implement retrieval
 augmented generation for a book. I have used the O Level computer science book
 for this purpose. You can use it with any of your favorite large language models
 (LLM) for example chatgpt or llama2.
